@@ -3,6 +3,9 @@ Conteúdo sobre GIT para estudar
  https://www.youtube.com/watch?v=cv82YD3OZEU
  https://github.com/DanielHe4rt/git4noobs
 
+Como calcular a área em Java?
+nextFloat(); area = scan. nextFloat(); area = PI* (raio*raio); System. out. print("O valor da area é " + area); System.
+
 
 Triangulo em JAVA:
 Dia 02/03/2023
